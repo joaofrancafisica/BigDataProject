@@ -1,0 +1,117 @@
+Bayesian Evidence                                                                         -10613.44805150
+Maximum Log Likelihood                                                                    -10577.91225321
+Maximum Log Posterior                                                                     1375538.50237112
+
+model                                                                                     CollectionPriorModel (N=17)
+    galaxies                                                                              CollectionPriorModel (N=17)
+        lens                                                                              Galaxy (N=11)
+            bulge                                                                         EllDevVaucouleurs (N=6)
+            mass                                                                          EllIsothermal (N=5)
+        source                                                                            Galaxy (N=6)
+            disk                                                                          EllExponential (N=6)
+
+Maximum Log Likelihood Model:
+
+galaxies
+    lens
+        bulge
+            centre
+                centre_0                                                                  -0.416
+                centre_1                                                                  0.430
+            elliptical_comps
+                elliptical_comps_0                                                        0.563
+                elliptical_comps_1                                                        0.013
+            intensity                                                                     0.195
+            effective_radius                                                              2.128
+        mass
+            centre
+                centre_0                                                                  0.022
+                centre_1                                                                  0.081
+            elliptical_comps
+                elliptical_comps_0                                                        0.000
+                elliptical_comps_1                                                        0.164
+            einstein_radius                                                               2.617
+    source
+        disk
+            centre
+                centre_0                                                                  0.860
+                centre_1                                                                  0.652
+            elliptical_comps
+                elliptical_comps_0                                                        -0.523
+                elliptical_comps_1                                                        0.009
+            intensity                                                                     2.779
+            effective_radius                                                              0.889
+
+
+Summary (3.0 sigma limits):
+
+galaxies
+    lens
+        bulge
+            centre
+                centre_0                                                                  -0.2249 (-0.8309, 0.2612)
+                centre_1                                                                  0.5077 (0.2720, 1.0546)
+            elliptical_comps
+                elliptical_comps_0                                                        0.5329 (0.1815, 0.9244)
+                elliptical_comps_1                                                        -0.0777 (-0.4803, 0.6009)
+            intensity                                                                     0.0949 (0.0169, 0.2361)
+            effective_radius                                                              5.8045 (0.3273, 27.6519)
+        mass
+            centre
+                centre_0                                                                  0.0005 (-0.2744, 0.2089)
+                centre_1                                                                  -0.0389 (-0.2828, 0.2968)
+            elliptical_comps
+                elliptical_comps_0                                                        0.0664 (-0.1779, 0.2361)
+                elliptical_comps_1                                                        0.1420 (-0.0252, 0.3603)
+            einstein_radius                                                               2.7473 (2.3511, 3.4420)
+    source
+        disk
+            centre
+                centre_0                                                                  0.7867 (0.4545, 1.0558)
+                centre_1                                                                  0.5993 (0.3075, 0.9156)
+            elliptical_comps
+                elliptical_comps_0                                                        -0.5155 (-0.7838, -0.0528)
+                elliptical_comps_1                                                        0.0140 (-0.5235, 0.3099)
+            intensity                                                                     2.7777 (1.5094, 5.0727)
+            effective_radius                                                              0.7992 (0.4173, 1.1595)
+
+
+Summary (1.0 sigma limits):
+
+galaxies
+    lens
+        bulge
+            centre
+                centre_0                                                                  -0.2249 (-0.4149, -0.0829)
+                centre_1                                                                  0.5077 (0.4236, 0.6172)
+            elliptical_comps
+                elliptical_comps_0                                                        0.5329 (0.3955, 0.6643)
+                elliptical_comps_1                                                        -0.0777 (-0.2194, 0.0808)
+            intensity                                                                     0.0949 (0.0579, 0.1450)
+            effective_radius                                                              5.8045 (3.2434, 9.9412)
+        mass
+            centre
+                centre_0                                                                  0.0005 (-0.0728, 0.0630)
+                centre_1                                                                  -0.0389 (-0.1177, 0.0372)
+            elliptical_comps
+                elliptical_comps_0                                                        0.0664 (-0.0106, 0.1224)
+                elliptical_comps_1                                                        0.1420 (0.0875, 0.2142)
+            einstein_radius                                                               2.7473 (2.5917, 2.9434)
+    source
+        disk
+            centre
+                centre_0                                                                  0.7867 (0.6930, 0.8873)
+                centre_1                                                                  0.5993 (0.4978, 0.7041)
+            elliptical_comps
+                elliptical_comps_0                                                        -0.5155 (-0.6046, -0.3915)
+                elliptical_comps_1                                                        0.0140 (-0.1076, 0.1171)
+            intensity                                                                     2.7777 (2.3042, 3.4080)
+            effective_radius                                                              0.7992 (0.6755, 0.9107)
+
+instances
+
+galaxies
+    lens
+        redshift                                                                          0.521
+    source
+        redshift                                                                          2.821
