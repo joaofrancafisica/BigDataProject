@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/joaofrancafisica/BigDataProject?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/joaofrancafisica/BigDataProject?style=for-the-badge)
 
-<img src="cbpf_logo.png" alt="logo do cbpf">
+<img src="cbpf_logo.jpg" alt="logo do cbpf">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
