@@ -2013,3 +2013,50 @@
 2021-11-11 17:43:04,745 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
 2021-11-11 17:46:39,651 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
 2021-11-11 17:46:39,735 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-17 16:51:49,532 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-17 16:51:50,340 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-17 16:53:22,401 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-17 16:53:22,696 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-17 16:54:05,751 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:05,752 - root - INFO - Starting search
+2021-11-17 16:54:05,845 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:05,869 - root - INFO - Removing zip file
+2021-11-17 16:54:06,492 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:06,493 - root - INFO - Starting search
+2021-11-17 16:54:06,577 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:06,596 - root - INFO - Removing zip file
+2021-11-17 16:54:07,176 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:07,177 - root - INFO - Starting search
+2021-11-17 16:54:07,277 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:07,293 - root - INFO - Removing zip file
+2021-11-17 16:54:07,989 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:07,990 - root - INFO - Starting search
+2021-11-17 16:54:08,084 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:08,104 - root - INFO - Removing zip file
+2021-11-17 16:54:08,692 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:08,693 - root - INFO - Starting search
+2021-11-17 16:54:08,770 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:08,784 - root - INFO - Removing zip file
+2021-11-17 16:54:09,328 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:09,329 - root - INFO - Starting search
+2021-11-17 16:54:09,430 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:09,449 - root - INFO - Removing zip file
+2021-11-17 16:54:10,092 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:10,094 - root - INFO - Starting search
+2021-11-17 16:54:10,243 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:10,293 - root - INFO - Removing zip file
+2021-11-17 16:54:11,269 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:11,270 - root - INFO - Starting search
+2021-11-17 16:54:11,373 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:11,391 - root - INFO - Removing zip file
+2021-11-17 16:54:11,966 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:11,968 - root - INFO - Starting search
+2021-11-17 16:54:12,074 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:12,098 - root - INFO - Removing zip file
+2021-11-17 16:54:12,824 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:12,826 - root - INFO - Starting search
+2021-11-17 16:54:12,907 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 16:54:12,920 - root - INFO - Removing zip file
+2021-11-17 16:54:13,458 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 16:54:13,459 - root - INFO - Starting search
+2021-11-17 16:54:13,554 - root - INFO - Already completed, skipping non-linear search.
