@@ -2060,3 +2060,25 @@
 2021-11-17 16:54:13,458 - autofit.non_linear.abstract_search - INFO - Creating search
 2021-11-17 16:54:13,459 - root - INFO - Starting search
 2021-11-17 16:54:13,554 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 17:47:53,856 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-17 17:47:54,036 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-17 17:48:08,599 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 17:48:08,600 - root - INFO - Starting search
+2021-11-17 17:48:08,698 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 17:48:08,722 - root - INFO - Removing zip file
+2021-11-17 17:48:09,343 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 17:48:09,344 - root - INFO - Starting search
+2021-11-17 17:48:09,431 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 17:48:09,545 - root - INFO - Removing zip file
+2021-11-17 17:48:10,139 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 17:48:10,140 - root - INFO - Starting search
+2021-11-17 17:48:10,234 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 17:48:10,252 - root - INFO - Removing zip file
+2021-11-17 17:48:10,869 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 17:48:10,870 - root - INFO - Starting search
+2021-11-17 17:48:10,958 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 17:48:10,977 - root - INFO - Removing zip file
+2021-11-17 17:48:11,550 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-17 17:48:11,552 - root - INFO - Starting search
+2021-11-17 17:48:11,626 - root - INFO - Already completed, skipping non-linear search.
+2021-11-17 17:48:11,639 - root - INFO - Removing zip file
