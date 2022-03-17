@@ -29,6 +29,8 @@ Linux, macOS e Windows:
 Para rodar os algóritmos de forma mais rápida, é necessário realizar o donwload da pasta output (que é a pasta que contém os arquivos de output do pyautolens):
 https://drive.google.com/drive/folders/1nAbgyPlrOV7Ow98AmAndiepS6TPh45wI?usp=sharing
 
+Além disso, os dados originais de simulação do LensPop podem ser encontrados em:
+https://drive.google.com/drive/folders/1tg9uNw2sB6wy0FUnLiVxrlFPKqIy7Qbe?usp=sharing
 
 ## ☕ Utilizando os códigos
 
@@ -36,3 +38,4 @@ Para usar, siga estas etapas:
 
 * Para gerar a análise bayesiana via AutoLens rode o notebook BayesianAnalysis.ipynb
 * Para fazer uma análise mais detalhada e comparativa com os modelos de deep learning rode o notebook ResultAnalysis.ipynb
+* Para a análise final utilize o ResultAnalysis.ipynb

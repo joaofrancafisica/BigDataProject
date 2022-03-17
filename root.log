@@ -2102,3 +2102,928 @@
 2021-11-19 14:49:41,086 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
 2021-11-19 15:23:22,610 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
 2021-11-19 15:23:23,431 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-23 15:48:13,456 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-23 15:48:14,263 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-23 17:13:20,763 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-23 17:13:20,921 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-23 17:20:32,995 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-23 17:20:33,153 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-23 17:23:08,880 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-23 17:23:09,031 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-23 17:23:45,145 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-23 17:23:45,298 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-24 16:10:08,691 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-24 16:10:09,749 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-25 13:53:42,661 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-25 13:53:43,347 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 09:01:36,598 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-26 09:01:37,371 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 09:07:12,581 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-26 09:07:12,746 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 09:09:22,094 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-26 09:09:22,260 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 09:10:36,517 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-26 09:10:36,682 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 10:12:37,026 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 10:12:37,183 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-26 10:24:31,075 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 10:24:31,243 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-26 10:25:33,630 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 10:25:33,774 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-26 10:25:40,409 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 10:25:40,410 - root - INFO - Starting search
+2021-11-26 10:25:40,415 - root - INFO - Saving path info
+2021-11-26 10:25:40,481 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 10:25:40,483 - root - INFO - number_of_cores == 6...
+2021-11-26 10:25:40,484 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 10:25:40,495 - process 0 - INFO - created
+2021-11-26 10:25:40,513 - process 1 - INFO - created
+2021-11-26 10:25:40,531 - process 2 - INFO - created
+2021-11-26 10:25:40,548 - process 3 - INFO - created
+2021-11-26 10:25:40,565 - process 4 - INFO - created
+2021-11-26 10:25:40,582 - process 5 - INFO - created
+2021-11-26 10:25:40,772 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 10:25:41,407 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 10:26:09,599 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:26:52,100 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:27:38,919 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:28:19,035 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:28:31,063 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:28:44,581 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:29:38,110 - root - INFO - Removing zip file
+2021-11-26 10:29:38,927 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 10:29:38,929 - root - INFO - Starting search
+2021-11-26 10:29:38,935 - root - INFO - Saving path info
+2021-11-26 10:29:39,016 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 10:29:39,018 - root - INFO - number_of_cores == 6...
+2021-11-26 10:29:39,019 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 10:29:39,029 - process 0 - INFO - created
+2021-11-26 10:29:39,047 - process 1 - INFO - created
+2021-11-26 10:29:39,066 - process 2 - INFO - created
+2021-11-26 10:29:39,084 - process 3 - INFO - created
+2021-11-26 10:29:39,101 - process 4 - INFO - created
+2021-11-26 10:29:39,119 - process 5 - INFO - created
+2021-11-26 10:29:39,656 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 10:29:40,401 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 10:30:12,788 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:30:52,528 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:31:16,821 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:31:28,876 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:31:39,023 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:32:21,623 - root - INFO - Removing zip file
+2021-11-26 10:32:22,276 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 10:32:22,277 - root - INFO - Starting search
+2021-11-26 10:32:22,282 - root - INFO - Saving path info
+2021-11-26 10:32:22,349 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 10:32:22,351 - root - INFO - number_of_cores == 6...
+2021-11-26 10:32:22,352 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 10:32:22,362 - process 0 - INFO - created
+2021-11-26 10:32:22,378 - process 1 - INFO - created
+2021-11-26 10:32:22,395 - process 2 - INFO - created
+2021-11-26 10:32:22,411 - process 3 - INFO - created
+2021-11-26 10:32:22,429 - process 4 - INFO - created
+2021-11-26 10:32:22,446 - process 5 - INFO - created
+2021-11-26 10:32:23,197 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 10:32:23,832 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 10:32:53,696 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:33:32,161 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:34:13,441 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:34:55,241 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:35:36,047 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:36:16,380 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:36:31,851 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:36:43,381 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:37:28,962 - root - INFO - Removing zip file
+2021-11-26 10:37:29,855 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 10:37:29,856 - root - INFO - Starting search
+2021-11-26 10:37:29,861 - root - INFO - Saving path info
+2021-11-26 10:37:29,926 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 10:37:29,928 - root - INFO - number_of_cores == 6...
+2021-11-26 10:37:29,929 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 10:37:29,940 - process 0 - INFO - created
+2021-11-26 10:37:29,956 - process 1 - INFO - created
+2021-11-26 10:37:29,971 - process 2 - INFO - created
+2021-11-26 10:37:29,988 - process 3 - INFO - created
+2021-11-26 10:37:30,004 - process 4 - INFO - created
+2021-11-26 10:37:30,021 - process 5 - INFO - created
+2021-11-26 10:37:31,186 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 10:37:31,783 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 10:38:04,485 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:38:41,816 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:39:20,611 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:39:46,666 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:39:57,895 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:40:08,366 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:40:53,759 - root - INFO - Removing zip file
+2021-11-26 10:40:54,465 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 10:40:54,466 - root - INFO - Starting search
+2021-11-26 10:40:54,474 - root - INFO - Saving path info
+2021-11-26 10:40:54,537 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 10:40:54,539 - root - INFO - number_of_cores == 6...
+2021-11-26 10:40:54,540 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 10:40:54,550 - process 0 - INFO - created
+2021-11-26 10:40:54,567 - process 1 - INFO - created
+2021-11-26 10:40:54,585 - process 2 - INFO - created
+2021-11-26 10:40:54,601 - process 3 - INFO - created
+2021-11-26 10:40:54,618 - process 4 - INFO - created
+2021-11-26 10:40:54,635 - process 5 - INFO - created
+2021-11-26 10:40:56,258 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 10:40:56,970 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 10:41:26,629 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:42:14,659 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:42:52,277 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:43:46,390 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:44:34,211 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:45:13,467 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:45:56,272 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:46:41,279 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:47:24,245 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:47:49,155 - root - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:48:00,203 - root - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:48:10,685 - root - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:48:56,689 - root - INFO - Removing zip file
+2021-11-26 10:48:57,453 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 10:48:57,454 - root - INFO - Starting search
+2021-11-26 10:48:57,461 - root - INFO - Saving path info
+2021-11-26 10:48:57,532 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 10:48:57,535 - root - INFO - number_of_cores == 6...
+2021-11-26 10:48:57,537 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 10:48:57,549 - process 0 - INFO - created
+2021-11-26 10:48:57,568 - process 1 - INFO - created
+2021-11-26 10:48:57,587 - process 2 - INFO - created
+2021-11-26 10:48:57,606 - process 3 - INFO - created
+2021-11-26 10:48:57,625 - process 4 - INFO - created
+2021-11-26 10:48:57,645 - process 5 - INFO - created
+2021-11-26 10:49:00,117 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 10:49:00,747 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 10:49:31,948 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:50:19,690 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:50:52,800 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:51:32,718 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:52:09,428 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:52:39,599 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:52:50,669 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:53:00,835 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:53:42,400 - root - INFO - Removing zip file
+2021-11-26 10:53:43,180 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 10:53:43,182 - root - INFO - Starting search
+2021-11-26 10:53:43,190 - root - INFO - Saving path info
+2021-11-26 10:53:43,297 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 10:53:43,301 - root - INFO - number_of_cores == 6...
+2021-11-26 10:53:43,302 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 10:53:43,317 - process 0 - INFO - created
+2021-11-26 10:53:43,335 - process 1 - INFO - created
+2021-11-26 10:53:43,353 - process 2 - INFO - created
+2021-11-26 10:53:43,371 - process 3 - INFO - created
+2021-11-26 10:53:43,389 - process 4 - INFO - created
+2021-11-26 10:53:43,407 - process 5 - INFO - created
+2021-11-26 10:53:45,917 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 10:53:46,700 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 10:54:16,005 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:55:25,028 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:56:10,184 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:56:52,378 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:57:35,866 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:57:56,590 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:58:08,283 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:58:19,332 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 10:59:04,556 - root - INFO - Removing zip file
+2021-11-26 10:59:05,618 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 10:59:05,621 - root - INFO - Starting search
+2021-11-26 10:59:05,633 - root - INFO - Saving path info
+2021-11-26 10:59:05,764 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 10:59:05,768 - root - INFO - number_of_cores == 6...
+2021-11-26 10:59:05,769 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 10:59:05,798 - process 0 - INFO - created
+2021-11-26 10:59:05,817 - process 1 - INFO - created
+2021-11-26 10:59:05,836 - process 2 - INFO - created
+2021-11-26 10:59:05,858 - process 3 - INFO - created
+2021-11-26 10:59:05,885 - process 4 - INFO - created
+2021-11-26 10:59:05,915 - process 5 - INFO - created
+2021-11-26 10:59:11,365 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 10:59:24,304 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 11:00:41,028 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:01:25,368 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:02:07,249 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:02:52,779 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:03:50,104 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:04:39,480 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:05:50,162 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:06:00,939 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:06:11,229 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:06:52,437 - root - INFO - Removing zip file
+2021-11-26 11:06:53,373 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:06:53,376 - root - INFO - Starting search
+2021-11-26 11:06:53,396 - root - INFO - Saving path info
+2021-11-26 11:06:53,583 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 11:06:53,588 - root - INFO - number_of_cores == 6...
+2021-11-26 11:06:53,589 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 11:06:53,631 - process 0 - INFO - created
+2021-11-26 11:06:53,681 - process 1 - INFO - created
+2021-11-26 11:06:53,716 - process 2 - INFO - created
+2021-11-26 11:06:53,754 - process 3 - INFO - created
+2021-11-26 11:06:53,778 - process 4 - INFO - created
+2021-11-26 11:06:53,806 - process 5 - INFO - created
+2021-11-26 11:09:59,943 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 11:10:00,136 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-26 11:10:11,061 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:11,062 - root - INFO - Starting search
+2021-11-26 11:10:11,175 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 11:10:11,202 - root - INFO - Removing zip file
+2021-11-26 11:10:11,863 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:11,864 - root - INFO - Starting search
+2021-11-26 11:10:11,952 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 11:10:11,977 - root - INFO - Removing zip file
+2021-11-26 11:10:12,692 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:12,693 - root - INFO - Starting search
+2021-11-26 11:10:12,829 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 11:10:12,869 - root - INFO - Removing zip file
+2021-11-26 11:10:13,747 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:13,748 - root - INFO - Starting search
+2021-11-26 11:10:13,849 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 11:10:13,873 - root - INFO - Removing zip file
+2021-11-26 11:10:14,532 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:14,533 - root - INFO - Starting search
+2021-11-26 11:10:14,648 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 11:10:14,674 - root - INFO - Removing zip file
+2021-11-26 11:10:15,372 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:15,373 - root - INFO - Starting search
+2021-11-26 11:10:15,480 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 11:10:15,506 - root - INFO - Removing zip file
+2021-11-26 11:10:16,210 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:16,211 - root - INFO - Starting search
+2021-11-26 11:10:16,361 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 11:10:16,388 - root - INFO - Removing zip file
+2021-11-26 11:10:17,194 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:17,196 - root - INFO - Starting search
+2021-11-26 11:10:17,297 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 11:10:17,319 - root - INFO - Removing zip file
+2021-11-26 11:10:17,986 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:10:17,988 - root - INFO - Starting search
+2021-11-26 11:10:17,997 - root - INFO - Saving path info
+2021-11-26 11:10:18,057 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 11:10:18,063 - root - INFO - number_of_cores == 6...
+2021-11-26 11:10:18,064 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 11:10:18,077 - process 0 - INFO - created
+2021-11-26 11:10:18,095 - process 1 - INFO - created
+2021-11-26 11:10:18,113 - process 2 - INFO - created
+2021-11-26 11:10:18,130 - process 3 - INFO - created
+2021-11-26 11:10:18,148 - process 4 - INFO - created
+2021-11-26 11:10:18,166 - process 5 - INFO - created
+2021-11-26 11:10:18,355 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 11:10:19,018 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 11:10:50,077 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:11:31,630 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:12:16,976 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:13:02,541 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:13:48,731 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:14:19,870 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:14:31,485 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:14:42,604 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:15:24,879 - root - INFO - Removing zip file
+2021-11-26 11:15:25,609 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:15:25,611 - root - INFO - Starting search
+2021-11-26 11:15:25,616 - root - INFO - Saving path info
+2021-11-26 11:15:25,686 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 11:15:25,688 - root - INFO - number_of_cores == 6...
+2021-11-26 11:15:25,690 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 11:15:25,701 - process 0 - INFO - created
+2021-11-26 11:15:25,719 - process 1 - INFO - created
+2021-11-26 11:15:25,739 - process 2 - INFO - created
+2021-11-26 11:15:25,757 - process 3 - INFO - created
+2021-11-26 11:15:25,775 - process 4 - INFO - created
+2021-11-26 11:15:25,793 - process 5 - INFO - created
+2021-11-26 11:15:26,338 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 11:15:27,016 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 11:15:57,096 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:16:14,552 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:16:26,084 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:16:35,925 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:17:16,274 - root - INFO - Removing zip file
+2021-11-26 11:17:16,863 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:17:16,864 - root - INFO - Starting search
+2021-11-26 11:17:16,869 - root - INFO - Saving path info
+2021-11-26 11:17:16,939 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 11:17:16,941 - root - INFO - number_of_cores == 6...
+2021-11-26 11:17:16,942 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 11:17:16,951 - process 0 - INFO - created
+2021-11-26 11:17:16,967 - process 1 - INFO - created
+2021-11-26 11:17:16,983 - process 2 - INFO - created
+2021-11-26 11:17:17,000 - process 3 - INFO - created
+2021-11-26 11:17:17,016 - process 4 - INFO - created
+2021-11-26 11:17:17,032 - process 5 - INFO - created
+2021-11-26 11:17:17,845 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 11:17:18,515 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 11:17:48,188 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:18:31,742 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:19:14,543 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:19:57,043 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:20:39,247 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:21:09,345 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:21:21,612 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:21:35,741 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:22:21,440 - root - INFO - Removing zip file
+2021-11-26 11:22:22,342 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:22:22,344 - root - INFO - Starting search
+2021-11-26 11:22:22,349 - root - INFO - Saving path info
+2021-11-26 11:22:22,420 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 11:22:22,422 - root - INFO - number_of_cores == 6...
+2021-11-26 11:22:22,423 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 11:22:22,433 - process 0 - INFO - created
+2021-11-26 11:22:22,451 - process 1 - INFO - created
+2021-11-26 11:22:22,470 - process 2 - INFO - created
+2021-11-26 11:22:22,489 - process 3 - INFO - created
+2021-11-26 11:22:22,507 - process 4 - INFO - created
+2021-11-26 11:22:22,525 - process 5 - INFO - created
+2021-11-26 11:22:23,718 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 11:22:24,390 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 11:22:57,081 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:23:44,332 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:24:26,868 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:24:45,614 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:24:56,364 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:25:06,948 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:25:52,370 - root - INFO - Removing zip file
+2021-11-26 11:25:53,063 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:25:53,065 - root - INFO - Starting search
+2021-11-26 11:25:53,070 - root - INFO - Saving path info
+2021-11-26 11:25:53,135 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 11:25:53,137 - root - INFO - number_of_cores == 6...
+2021-11-26 11:25:53,138 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 11:25:53,148 - process 0 - INFO - created
+2021-11-26 11:25:53,164 - process 1 - INFO - created
+2021-11-26 11:25:53,180 - process 2 - INFO - created
+2021-11-26 11:25:53,197 - process 3 - INFO - created
+2021-11-26 11:25:53,213 - process 4 - INFO - created
+2021-11-26 11:25:53,228 - process 5 - INFO - created
+2021-11-26 11:25:54,957 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 11:25:55,646 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 11:26:25,617 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:26:42,599 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:26:52,568 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:27:02,302 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:27:51,732 - root - INFO - Removing zip file
+2021-11-26 11:27:52,348 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:27:52,350 - root - INFO - Starting search
+2021-11-26 11:27:52,359 - root - INFO - Saving path info
+2021-11-26 11:27:52,433 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 11:27:52,435 - root - INFO - number_of_cores == 6...
+2021-11-26 11:27:52,437 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 11:27:52,448 - process 0 - INFO - created
+2021-11-26 11:27:52,467 - process 1 - INFO - created
+2021-11-26 11:27:52,484 - process 2 - INFO - created
+2021-11-26 11:27:52,501 - process 3 - INFO - created
+2021-11-26 11:27:52,518 - process 4 - INFO - created
+2021-11-26 11:27:52,535 - process 5 - INFO - created
+2021-11-26 11:27:54,373 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 11:27:55,023 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 11:28:25,550 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:29:05,131 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:29:20,589 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:29:32,048 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:29:42,473 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:30:36,302 - root - INFO - Removing zip file
+2021-11-26 11:30:37,100 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 11:30:37,103 - root - INFO - Starting search
+2021-11-26 11:30:37,112 - root - INFO - Saving path info
+2021-11-26 11:30:37,222 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 11:30:37,226 - root - INFO - number_of_cores == 6...
+2021-11-26 11:30:37,227 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 11:30:37,244 - process 0 - INFO - created
+2021-11-26 11:30:37,264 - process 1 - INFO - created
+2021-11-26 11:30:37,283 - process 2 - INFO - created
+2021-11-26 11:30:37,303 - process 3 - INFO - created
+2021-11-26 11:30:37,320 - process 4 - INFO - created
+2021-11-26 11:30:37,338 - process 5 - INFO - created
+2021-11-26 11:30:40,204 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 11:30:41,131 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 11:31:15,774 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:32:01,965 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:32:54,103 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:33:35,833 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:34:18,286 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:34:30,642 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:34:42,152 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:34:52,923 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 11:35:36,427 - root - INFO - Removing zip file
+2021-11-26 15:52:21,465 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-26 15:52:22,200 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 17:43:29,340 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-26 17:43:29,492 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 17:49:47,633 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 17:49:47,926 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-26 17:49:56,216 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 17:49:56,217 - root - INFO - Starting search
+2021-11-26 17:49:56,224 - root - INFO - Saving path info
+2021-11-26 17:49:56,293 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 17:49:56,294 - root - INFO - number_of_cores == 6...
+2021-11-26 17:49:56,295 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 17:49:56,303 - process 0 - INFO - created
+2021-11-26 17:49:56,313 - process 1 - INFO - created
+2021-11-26 17:49:56,325 - process 2 - INFO - created
+2021-11-26 17:49:56,336 - process 3 - INFO - created
+2021-11-26 17:49:56,346 - process 4 - INFO - created
+2021-11-26 17:49:56,357 - process 5 - INFO - created
+2021-11-26 17:49:56,537 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 17:49:57,249 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 17:50:24,437 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:51:06,821 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:51:47,276 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:52:10,917 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:52:22,195 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:52:35,337 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:53:15,874 - root - INFO - Removing zip file
+2021-11-26 17:53:17,860 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 17:53:17,861 - root - INFO - Starting search
+2021-11-26 17:53:17,865 - root - INFO - Saving path info
+2021-11-26 17:53:17,931 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 17:53:17,934 - root - INFO - number_of_cores == 6...
+2021-11-26 17:53:17,934 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 17:53:17,941 - process 0 - INFO - created
+2021-11-26 17:53:17,952 - process 1 - INFO - created
+2021-11-26 17:53:17,963 - process 2 - INFO - created
+2021-11-26 17:53:17,973 - process 3 - INFO - created
+2021-11-26 17:53:17,984 - process 4 - INFO - created
+2021-11-26 17:53:17,995 - process 5 - INFO - created
+2021-11-26 17:53:18,513 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 17:53:19,186 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 17:53:50,729 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:54:32,316 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:54:56,975 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:55:07,395 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:55:20,676 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:55:59,916 - root - INFO - Removing zip file
+2021-11-26 17:56:00,546 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 17:56:00,548 - root - INFO - Starting search
+2021-11-26 17:56:00,552 - root - INFO - Saving path info
+2021-11-26 17:56:00,622 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 17:56:00,625 - root - INFO - number_of_cores == 6...
+2021-11-26 17:56:00,626 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 17:56:00,636 - process 0 - INFO - created
+2021-11-26 17:56:00,652 - process 1 - INFO - created
+2021-11-26 17:56:00,665 - process 2 - INFO - created
+2021-11-26 17:56:00,678 - process 3 - INFO - created
+2021-11-26 17:56:00,692 - process 4 - INFO - created
+2021-11-26 17:56:00,707 - process 5 - INFO - created
+2021-11-26 17:56:01,463 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 17:56:02,187 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 17:56:28,100 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:57:07,776 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:57:42,698 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:57:56,317 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:58:06,268 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:58:15,932 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 17:58:55,630 - root - INFO - Removing zip file
+2021-11-26 17:58:56,208 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 17:58:56,209 - root - INFO - Starting search
+2021-11-26 17:58:56,213 - root - INFO - Saving path info
+2021-11-26 17:58:56,280 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 17:58:56,282 - root - INFO - number_of_cores == 6...
+2021-11-26 17:58:56,283 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 17:58:56,293 - process 0 - INFO - created
+2021-11-26 17:58:56,306 - process 1 - INFO - created
+2021-11-26 17:58:56,319 - process 2 - INFO - created
+2021-11-26 17:58:56,333 - process 3 - INFO - created
+2021-11-26 17:58:56,346 - process 4 - INFO - created
+2021-11-26 17:58:56,359 - process 5 - INFO - created
+2021-11-26 17:58:57,444 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 17:58:58,085 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 17:59:26,963 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:00:11,306 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:00:46,897 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:01:01,785 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:01:14,180 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:02:15,795 - root - INFO - Removing zip file
+2021-11-26 18:02:16,854 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:02:16,856 - root - INFO - Starting search
+2021-11-26 18:02:16,864 - root - INFO - Saving path info
+2021-11-26 18:02:16,967 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:02:16,971 - root - INFO - number_of_cores == 6...
+2021-11-26 18:02:16,972 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:02:16,984 - process 0 - INFO - created
+2021-11-26 18:02:17,003 - process 1 - INFO - created
+2021-11-26 18:02:17,024 - process 2 - INFO - created
+2021-11-26 18:02:17,041 - process 3 - INFO - created
+2021-11-26 18:02:17,061 - process 4 - INFO - created
+2021-11-26 18:02:17,079 - process 5 - INFO - created
+2021-11-26 18:02:19,175 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:02:20,337 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:02:53,914 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:03:34,167 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:04:07,267 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:04:20,774 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:04:34,528 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:05:22,353 - root - INFO - Removing zip file
+2021-11-26 18:05:23,065 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:05:23,067 - root - INFO - Starting search
+2021-11-26 18:05:23,072 - root - INFO - Saving path info
+2021-11-26 18:05:23,141 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:05:23,143 - root - INFO - number_of_cores == 6...
+2021-11-26 18:05:23,145 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:05:23,155 - process 0 - INFO - created
+2021-11-26 18:05:23,171 - process 1 - INFO - created
+2021-11-26 18:05:23,187 - process 2 - INFO - created
+2021-11-26 18:05:23,202 - process 3 - INFO - created
+2021-11-26 18:05:23,216 - process 4 - INFO - created
+2021-11-26 18:05:23,232 - process 5 - INFO - created
+2021-11-26 18:05:24,895 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:05:25,530 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:05:59,617 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:06:42,132 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:07:23,632 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:08:14,907 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:09:03,612 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:10:00,067 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:10:54,261 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:11:42,019 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:12:43,126 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:13:30,459 - root - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:13:54,106 - root - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:14:13,283 - root - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:14:27,013 - root - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:15:31,167 - root - INFO - Removing zip file
+2021-11-26 18:15:31,966 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:15:31,967 - root - INFO - Starting search
+2021-11-26 18:15:31,973 - root - INFO - Saving path info
+2021-11-26 18:15:32,054 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:15:32,056 - root - INFO - number_of_cores == 6...
+2021-11-26 18:15:32,058 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:15:32,070 - process 0 - INFO - created
+2021-11-26 18:15:32,089 - process 1 - INFO - created
+2021-11-26 18:15:32,111 - process 2 - INFO - created
+2021-11-26 18:15:32,130 - process 3 - INFO - created
+2021-11-26 18:15:32,148 - process 4 - INFO - created
+2021-11-26 18:15:32,165 - process 5 - INFO - created
+2021-11-26 18:15:34,794 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:15:44,852 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:16:13,866 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:16:57,049 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:17:35,476 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:17:49,835 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:18:04,664 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:19:07,660 - root - INFO - Removing zip file
+2021-11-26 18:19:08,349 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:19:08,351 - root - INFO - Starting search
+2021-11-26 18:19:08,357 - root - INFO - Saving path info
+2021-11-26 18:19:08,439 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:19:08,441 - root - INFO - number_of_cores == 6...
+2021-11-26 18:19:08,442 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:19:08,458 - process 0 - INFO - created
+2021-11-26 18:19:08,476 - process 1 - INFO - created
+2021-11-26 18:19:08,495 - process 2 - INFO - created
+2021-11-26 18:19:08,513 - process 3 - INFO - created
+2021-11-26 18:19:08,532 - process 4 - INFO - created
+2021-11-26 18:19:08,550 - process 5 - INFO - created
+2021-11-26 18:19:11,668 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:19:12,341 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:19:40,777 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:20:20,430 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:20:52,850 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:21:05,712 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:21:17,907 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:21:58,523 - root - INFO - Removing zip file
+2021-11-26 18:21:59,205 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:21:59,207 - root - INFO - Starting search
+2021-11-26 18:21:59,221 - root - INFO - Saving path info
+2021-11-26 18:21:59,374 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:21:59,378 - root - INFO - number_of_cores == 6...
+2021-11-26 18:21:59,380 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:21:59,409 - process 0 - INFO - created
+2021-11-26 18:21:59,434 - process 1 - INFO - created
+2021-11-26 18:21:59,453 - process 2 - INFO - created
+2021-11-26 18:21:59,480 - process 3 - INFO - created
+2021-11-26 18:21:59,498 - process 4 - INFO - created
+2021-11-26 18:21:59,516 - process 5 - INFO - created
+2021-11-26 18:22:02,333 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:22:02,953 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:22:34,030 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:23:15,806 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:24:09,410 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:24:45,141 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:25:00,337 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:25:15,000 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:26:50,083 - root - INFO - Removing zip file
+2021-11-26 18:26:50,837 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:26:50,841 - root - INFO - Starting search
+2021-11-26 18:26:50,857 - root - INFO - Saving path info
+2021-11-26 18:26:51,009 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:26:51,013 - root - INFO - number_of_cores == 6...
+2021-11-26 18:26:51,015 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:26:51,042 - process 0 - INFO - created
+2021-11-26 18:26:51,063 - process 1 - INFO - created
+2021-11-26 18:26:51,089 - process 2 - INFO - created
+2021-11-26 18:26:51,116 - process 3 - INFO - created
+2021-11-26 18:26:51,139 - process 4 - INFO - created
+2021-11-26 18:26:51,158 - process 5 - INFO - created
+2021-11-26 18:26:56,529 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:27:26,324 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:27:57,948 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:28:17,997 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:28:34,012 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:28:43,864 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:29:23,406 - root - INFO - Removing zip file
+2021-11-26 18:29:24,171 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:29:24,173 - root - INFO - Starting search
+2021-11-26 18:29:24,184 - root - INFO - Saving path info
+2021-11-26 18:29:24,326 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:29:24,330 - root - INFO - number_of_cores == 6...
+2021-11-26 18:29:24,331 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:29:24,345 - process 0 - INFO - created
+2021-11-26 18:29:24,376 - process 1 - INFO - created
+2021-11-26 18:29:24,395 - process 2 - INFO - created
+2021-11-26 18:29:24,415 - process 3 - INFO - created
+2021-11-26 18:29:24,436 - process 4 - INFO - created
+2021-11-26 18:29:24,456 - process 5 - INFO - created
+2021-11-26 18:31:07,498 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-26 18:31:07,670 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-26 18:31:16,723 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:16,724 - root - INFO - Starting search
+2021-11-26 18:31:16,824 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:16,849 - root - INFO - Removing zip file
+2021-11-26 18:31:17,497 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:17,498 - root - INFO - Starting search
+2021-11-26 18:31:17,588 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:17,611 - root - INFO - Removing zip file
+2021-11-26 18:31:18,214 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:18,215 - root - INFO - Starting search
+2021-11-26 18:31:18,325 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:18,346 - root - INFO - Removing zip file
+2021-11-26 18:31:19,038 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:19,039 - root - INFO - Starting search
+2021-11-26 18:31:19,128 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:19,148 - root - INFO - Removing zip file
+2021-11-26 18:31:19,727 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:19,729 - root - INFO - Starting search
+2021-11-26 18:31:19,824 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:19,845 - root - INFO - Removing zip file
+2021-11-26 18:31:20,462 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:20,464 - root - INFO - Starting search
+2021-11-26 18:31:20,572 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:20,602 - root - INFO - Removing zip file
+2021-11-26 18:31:21,311 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:21,312 - root - INFO - Starting search
+2021-11-26 18:31:21,404 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:21,426 - root - INFO - Removing zip file
+2021-11-26 18:31:22,015 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:22,017 - root - INFO - Starting search
+2021-11-26 18:31:22,120 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:22,140 - root - INFO - Removing zip file
+2021-11-26 18:31:22,782 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:22,784 - root - INFO - Starting search
+2021-11-26 18:31:22,875 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:22,898 - root - INFO - Removing zip file
+2021-11-26 18:31:23,587 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:23,588 - root - INFO - Starting search
+2021-11-26 18:31:23,664 - root - INFO - Already completed, skipping non-linear search.
+2021-11-26 18:31:23,676 - root - INFO - Removing zip file
+2021-11-26 18:31:24,195 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:31:24,197 - root - INFO - Starting search
+2021-11-26 18:31:24,207 - root - INFO - Saving path info
+2021-11-26 18:31:24,268 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:31:24,273 - root - INFO - number_of_cores == 6...
+2021-11-26 18:31:24,274 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:31:24,286 - process 0 - INFO - created
+2021-11-26 18:31:24,302 - process 1 - INFO - created
+2021-11-26 18:31:24,317 - process 2 - INFO - created
+2021-11-26 18:31:24,332 - process 3 - INFO - created
+2021-11-26 18:31:24,348 - process 4 - INFO - created
+2021-11-26 18:31:24,364 - process 5 - INFO - created
+2021-11-26 18:31:24,549 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:31:25,217 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:31:58,973 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:32:45,096 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:33:40,177 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:33:53,772 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:34:06,664 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:34:59,931 - root - INFO - Removing zip file
+2021-11-26 18:35:01,658 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:35:01,659 - root - INFO - Starting search
+2021-11-26 18:35:01,665 - root - INFO - Saving path info
+2021-11-26 18:35:01,738 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:35:01,740 - root - INFO - number_of_cores == 6...
+2021-11-26 18:35:01,741 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:35:01,751 - process 0 - INFO - created
+2021-11-26 18:35:01,769 - process 1 - INFO - created
+2021-11-26 18:35:01,788 - process 2 - INFO - created
+2021-11-26 18:35:01,805 - process 3 - INFO - created
+2021-11-26 18:35:01,823 - process 4 - INFO - created
+2021-11-26 18:35:01,840 - process 5 - INFO - created
+2021-11-26 18:35:02,366 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:35:03,167 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:35:39,246 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:36:29,130 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:37:18,855 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:38:15,100 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:39:17,690 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:40:46,741 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:40:59,389 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:41:12,941 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:41:59,691 - root - INFO - Removing zip file
+2021-11-26 18:42:00,447 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:42:00,449 - root - INFO - Starting search
+2021-11-26 18:42:00,456 - root - INFO - Saving path info
+2021-11-26 18:42:00,517 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:42:00,519 - root - INFO - number_of_cores == 6...
+2021-11-26 18:42:00,520 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:42:00,528 - process 0 - INFO - created
+2021-11-26 18:42:00,542 - process 1 - INFO - created
+2021-11-26 18:42:00,556 - process 2 - INFO - created
+2021-11-26 18:42:00,571 - process 3 - INFO - created
+2021-11-26 18:42:00,585 - process 4 - INFO - created
+2021-11-26 18:42:00,600 - process 5 - INFO - created
+2021-11-26 18:42:01,551 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:42:02,322 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:42:37,845 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:43:29,226 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:44:19,032 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:44:35,038 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:44:47,016 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:45:33,940 - root - INFO - Removing zip file
+2021-11-26 18:45:34,666 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:45:34,668 - root - INFO - Starting search
+2021-11-26 18:45:34,672 - root - INFO - Saving path info
+2021-11-26 18:45:34,737 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:45:34,739 - root - INFO - number_of_cores == 6...
+2021-11-26 18:45:34,740 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:45:34,749 - process 0 - INFO - created
+2021-11-26 18:45:34,764 - process 1 - INFO - created
+2021-11-26 18:45:34,778 - process 2 - INFO - created
+2021-11-26 18:45:34,794 - process 3 - INFO - created
+2021-11-26 18:45:34,809 - process 4 - INFO - created
+2021-11-26 18:45:34,824 - process 5 - INFO - created
+2021-11-26 18:45:35,911 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:45:36,633 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:46:20,110 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:47:18,058 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:48:03,951 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:49:03,080 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:49:49,188 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:50:37,236 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:50:59,142 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:51:12,978 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:51:27,925 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:52:15,549 - root - INFO - Removing zip file
+2021-11-26 18:52:16,408 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-26 18:52:16,410 - root - INFO - Starting search
+2021-11-26 18:52:16,414 - root - INFO - Saving path info
+2021-11-26 18:52:16,478 - root - INFO - Not complete. Starting non-linear search.
+2021-11-26 18:52:16,480 - root - INFO - number_of_cores == 6...
+2021-11-26 18:52:16,481 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-26 18:52:16,491 - process 0 - INFO - created
+2021-11-26 18:52:16,506 - process 1 - INFO - created
+2021-11-26 18:52:16,521 - process 2 - INFO - created
+2021-11-26 18:52:16,538 - process 3 - INFO - created
+2021-11-26 18:52:16,555 - process 4 - INFO - created
+2021-11-26 18:52:16,571 - process 5 - INFO - created
+2021-11-26 18:52:18,473 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-26 18:52:19,230 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-26 18:52:57,375 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:54:00,614 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:55:08,538 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:56:01,203 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:56:42,448 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:57:23,844 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:58:07,383 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 18:59:06,100 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 19:00:07,118 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 19:01:13,667 - root - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 19:02:06,558 - root - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 19:02:27,368 - root - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 19:02:40,448 - root - INFO - 65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 19:02:59,081 - root - INFO - 70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-26 19:03:44,781 - root - INFO - Removing zip file
+2021-11-26 19:05:41,639 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-26 19:05:41,863 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 10:50:41,342 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 10:50:42,204 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-11-27 10:51:04,820 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-27 10:51:04,822 - root - INFO - Starting search
+2021-11-27 10:51:04,833 - root - INFO - Saving path info
+2021-11-27 10:51:04,999 - root - INFO - Not complete. Starting non-linear search.
+2021-11-27 10:51:05,005 - root - INFO - number_of_cores == 6...
+2021-11-27 10:51:05,007 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-27 10:51:05,022 - process 0 - INFO - created
+2021-11-27 10:51:05,039 - process 1 - INFO - created
+2021-11-27 10:51:05,052 - process 2 - INFO - created
+2021-11-27 10:51:05,066 - process 3 - INFO - created
+2021-11-27 10:51:05,080 - process 4 - INFO - created
+2021-11-27 10:51:05,094 - process 5 - INFO - created
+2021-11-27 10:51:05,539 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-27 10:51:07,368 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-27 10:52:04,248 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 10:53:51,907 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 10:55:35,899 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 10:57:14,951 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 10:59:07,742 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:00:20,821 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:01:30,176 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:02:01,387 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:02:30,154 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:04:28,730 - root - INFO - Removing zip file
+2021-11-27 11:04:29,760 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-27 11:04:29,762 - root - INFO - Starting search
+2021-11-27 11:04:29,767 - root - INFO - Saving path info
+2021-11-27 11:04:29,845 - root - INFO - Not complete. Starting non-linear search.
+2021-11-27 11:04:29,847 - root - INFO - number_of_cores == 6...
+2021-11-27 11:04:29,848 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-27 11:04:29,856 - process 0 - INFO - created
+2021-11-27 11:04:29,866 - process 1 - INFO - created
+2021-11-27 11:04:29,879 - process 2 - INFO - created
+2021-11-27 11:04:29,891 - process 3 - INFO - created
+2021-11-27 11:04:29,904 - process 4 - INFO - created
+2021-11-27 11:04:29,916 - process 5 - INFO - created
+2021-11-27 11:04:30,632 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-27 11:04:32,280 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-27 11:05:22,227 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:06:33,167 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:07:13,283 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:07:43,298 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:08:15,755 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:10:09,131 - root - INFO - Removing zip file
+2021-11-27 11:10:10,941 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-27 11:10:10,944 - root - INFO - Starting search
+2021-11-27 11:10:10,955 - root - INFO - Saving path info
+2021-11-27 11:10:11,131 - root - INFO - Not complete. Starting non-linear search.
+2021-11-27 11:10:11,136 - root - INFO - number_of_cores == 6...
+2021-11-27 11:10:11,138 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-27 11:10:11,147 - process 0 - INFO - created
+2021-11-27 11:10:11,160 - process 1 - INFO - created
+2021-11-27 11:10:11,175 - process 2 - INFO - created
+2021-11-27 11:10:11,189 - process 3 - INFO - created
+2021-11-27 11:10:11,203 - process 4 - INFO - created
+2021-11-27 11:10:11,216 - process 5 - INFO - created
+2021-11-27 11:10:13,033 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-27 11:10:14,831 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-27 11:11:02,871 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:12:18,968 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:12:55,806 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:13:30,598 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:13:59,579 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:15:57,141 - root - INFO - Removing zip file
+2021-11-27 11:15:58,953 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-27 11:15:58,957 - root - INFO - Starting search
+2021-11-27 11:15:58,968 - root - INFO - Saving path info
+2021-11-27 11:15:59,143 - root - INFO - Not complete. Starting non-linear search.
+2021-11-27 11:15:59,148 - root - INFO - number_of_cores == 6...
+2021-11-27 11:15:59,150 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-27 11:15:59,164 - process 0 - INFO - created
+2021-11-27 11:15:59,182 - process 1 - INFO - created
+2021-11-27 11:15:59,195 - process 2 - INFO - created
+2021-11-27 11:15:59,217 - process 3 - INFO - created
+2021-11-27 11:15:59,234 - process 4 - INFO - created
+2021-11-27 11:15:59,247 - process 5 - INFO - created
+2021-11-27 11:16:01,458 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-27 11:16:03,146 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-27 11:16:59,611 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:18:23,122 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:19:24,902 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:19:55,266 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:20:22,733 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:22:18,350 - root - INFO - Removing zip file
+2021-11-27 11:22:19,969 - autofit.non_linear.abstract_search - INFO - Creating search
+2021-11-27 11:22:19,972 - root - INFO - Starting search
+2021-11-27 11:22:19,987 - root - INFO - Saving path info
+2021-11-27 11:22:20,167 - root - INFO - Not complete. Starting non-linear search.
+2021-11-27 11:22:20,172 - root - INFO - number_of_cores == 6...
+2021-11-27 11:22:20,175 - root - WARNING - ...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+2021-11-27 11:22:20,189 - process 0 - INFO - created
+2021-11-27 11:22:20,212 - process 1 - INFO - created
+2021-11-27 11:22:20,234 - process 2 - INFO - created
+2021-11-27 11:22:20,253 - process 3 - INFO - created
+2021-11-27 11:22:20,266 - process 4 - INFO - created
+2021-11-27 11:22:20,281 - process 5 - INFO - created
+2021-11-27 11:22:23,075 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2021-11-27 11:22:24,859 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2021-11-27 11:23:17,693 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:25:15,305 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:26:57,112 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2021-11-27 11:31:04,136 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-27 11:31:04,801 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:34:08,141 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-27 11:34:08,640 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:36:30,043 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-27 11:36:30,534 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:41:51,510 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-27 11:41:52,061 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:42:52,544 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-27 11:42:53,020 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:43:55,988 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-27 11:43:56,503 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:52:46,439 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-27 11:52:48,388 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:53:59,280 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-11-27 11:53:59,942 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:55:28,620 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-11-27 11:55:29,515 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-12-01 13:06:59,452 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-12-01 13:07:01,846 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-12-01 17:44:17,754 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-12-01 17:44:18,075 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-12-01 17:52:38,388 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-12-01 17:52:38,554 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-12-01 17:54:05,998 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-12-01 17:54:06,224 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autolens/config
+2021-12-01 17:56:07,009 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-12-01 17:56:07,553 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
+2021-12-04 13:21:20,089 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autoarray/config
+2021-12-04 13:21:23,360 - autoconf.conf - WARNING - Pushing new config with path /home/joao/.local/lib/python3.8/site-packages/autogalaxy/config
